@@ -25,10 +25,10 @@ using namespace std;
  }
 
 int main(){
-    vector<int> Arr = {10,20,0,0,30,0,70,8,0,0,0};
-    Move(Arr);
+    vector<int> arr = {10,20,0,0,30,0,70,8,0,0,0};
+    Move(arr);
     // printing array.
-    for(int num : Arr){
+    for(int num : arr){
         cout << num << " ";
     }
 
