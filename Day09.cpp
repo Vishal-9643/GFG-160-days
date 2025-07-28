@@ -1,5 +1,5 @@
-// Day 9 : Minimize Height II 
-//  Approach : S1. first sort the array
+// Day 9 : Minimize Height II .
+//  Approach : S1. first sort the array.
             // S2. Intializing Min and Max and Difference is max- min.
             // S3. if arr[i]-k>0 then find new min and max and new diffrence is minimum of previous and curret.
 #include<bits/stdc++.h>
