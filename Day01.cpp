@@ -22,7 +22,7 @@ int SL(vector<int> & arr){
 }
 
 int main(){
-    vector<int> v = {12 , 10 , 16 , 89, 67};
-    cout << SL(v);
+    vector<int> arr = {12 , 10 , 16 , 89, 67};
+    cout << SL(arr);
     return 0;
 }
