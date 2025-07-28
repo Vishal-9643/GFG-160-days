@@ -43,8 +43,8 @@ using namespace std;
 }
 
 int main(){
-    vector<int> V = {2,2,3,1,3,2,1,1};
-    vector<int> ans = findMajority(V);
+    vector<int> arr = {2,2,3,1,3,2,1,1};
+    vector<int> ans = findMajority(arr);
     for(int i: ans){
         cout << i << " ";
     }
