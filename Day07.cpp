@@ -7,7 +7,7 @@ int maximumProfit(vector<int> &arr) {
         int n = arr.size();
         int MP =0;
         for(int i=0;i<n-1;i++){
-            if(arr[i]<arr[i+1]){ // If next day price high then profit calculating
+            if(arr[i]<arr[i+1]){ // If next day price high then profit calculating.
                 MP += arr[i+1]-arr[i];
             }
         }
