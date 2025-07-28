@@ -32,9 +32,9 @@ void NexPer(vector<int> & arr){
 }
 
 int main(){
-    vector<int> V = {2,4,1,7,5,0};
-    NexPer(V);
-    for(int i : V){
+    vector<int> arr = {2,4,1,7,5,0};
+    NexPer(arr);
+    for(int i : arr){
         cout << i << " ";
     }
 }
