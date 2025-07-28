@@ -16,7 +16,7 @@ void reverse(vector<int> & arr){
 }
 
 int main(){
-    vector<int> arr = {1,2,3,4,5};
+    vector<int> arr = {1,2,3,4,5,6};
     reverse(arr);
     for(int num:arr){
         cout << num << " ";
