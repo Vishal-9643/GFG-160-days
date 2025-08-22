@@ -6,7 +6,6 @@ using namespace std;
 
 vector<vector<string>> anagrams(vector<string> &arr)
 {
-    // code here
     unordered_map<string, vector<string>> mp;
 
     for (string s : arr)
