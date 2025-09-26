@@ -53,10 +53,10 @@
 - Contain 1 Easy ,6 Medium and 2 Hard Problem.
 - Score = 250 points.
 
-## Day 67 - Day 70 
+## Day 67 - Day 71
 - Problem based on Recursion and Backtracking.
-- Contain 2 Medium and 2 hard problems.
-- Score = 274 points.
+- Contain 3 Medium and 2 hard problems.
+- Score = 278 points.
 
 
 ## 💡 Quote
