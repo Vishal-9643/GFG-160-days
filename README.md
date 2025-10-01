@@ -58,6 +58,11 @@
 - Contain 3 Medium and 2 hard problems.
 - Score = 278 points.
 
+## Day 72 - Day 75
+- Problems based on Bit-Manipulation.
+- Conatain 3 Easy and 1 Medium Problem.
+- Score = 288 points.
+
 
 ## 💡 Quote
 - "Consistency is more important than intensity. Small steps daily lead to big milestones." 🚀

@@ -12,7 +12,7 @@ int findDuplicate(vector<int> &arr)
     int XOR = 0;
     for (int i = 0; i < n; i++)
     {
-        XOR = XOR ^ i ^ arr[i];
+        XOR = XOR ^ i ^ arr[i]; // same number XOR (^) gives zero so index and number give zero and one repeated number reamin. 
     }
 
     return XOR;
