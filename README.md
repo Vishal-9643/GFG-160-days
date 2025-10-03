@@ -58,10 +58,10 @@
 - Contain 3 Medium and 2 hard problems.
 - Score = 278 points.
 
-## Day 72 - Day 74
+## Day 72 - Day 75
 - Problems based on Bit-Manipulation.
-- Conatain 3 Easy Problem.
-- Score = 284 points.
+- Conatain 3 Easy and 1 Medium Problem.
+- Score = 288 points.
 
 
 ## 💡 Quote
