@@ -63,10 +63,10 @@
 - Conatain 3 Easy and 1 Medium Problem.
 - Score = 288 points.
 
-## Day 76 - Day 77 
+## Day 76 - Day 78 
 - Problems based on Stack Data Structure.
-- contains 1 Easy , 1 Medium and 0 Hard Problems.
-- Score = 294 points.
+- contains 1 Easy , 2 Medium and 0 Hard Problems.
+- Score = 298 points.
 
 
 ## 💡 Quote
