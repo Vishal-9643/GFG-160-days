@@ -25,7 +25,7 @@ using namespace std;
  }
 
 int main(){
-    vector<int> arr = {10,20,0,0,30,0,70,8,0,0,0};
+    vector<int> arr = {10,20,0,30,0,70,8,0,0,0};
     Move(arr);
     // printing array.
     for(int num : arr){
